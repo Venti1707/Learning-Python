@@ -12,7 +12,7 @@ print(e)
 print(f)
 
 # Unpacking a collection
-# The process of extracting the collection of values in a list/tuple is called unpacking
+# The process of extracting the collection of values in a list/tuple is called unpacking.
 fruits = ["Apple", "Banana", "Cherry"]
 g, h, i = fruits
 print(g)
