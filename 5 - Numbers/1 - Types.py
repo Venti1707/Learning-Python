@@ -1,9 +1,8 @@
-# There are 3 types of numbers in Python.
+# There are 3 types of numbers in Python: int, float, complex.
+a = 1
+b = 2.3
+c = 4j
 
-a = 1 # int
-b = 2.3 # float
-c = 4j # complex
-
-print(type(a))
-print(type(b))
-print(type(c))
+print(type(a)) # int
+print(type(b)) # float
+print(type(c)) # complex
