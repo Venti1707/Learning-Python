@@ -1,4 +1,4 @@
-# There are 8 data types in Python
+# There are 8 data types in Python.
 # Text Type: str
 # Numeric Types: int, float, complex
 # Sequence Types: list, tuple, range
