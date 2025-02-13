@@ -1,57 +1,57 @@
 # There are 8 data types in Python.
-# Text Type: str
-# Numeric Types: int, float, complex
-# Sequence Types: list, tuple, range
-# Mapping Type: dict
-# Set Types: set, frozenset
-# Boolean Type: bool
-# Binary Types: bytes, bytearray, memoryview
-# None Type: NoneType
 
+# 1. Text Type
 a = "Hello world"
-print(type(a))
+print(type(a)) # str
 
+# 2. Numeric Types
 b = 20
-print(type(b))
+print(type(b)) # int
 
 c = 20.5
-print(type(c))
+print(type(c)) # float
 
 d = 1j
-print(type(d))
+print(type(d)) # complex
 
+# 3. Sequence Types
 e = ["apple", "banana", "cherry"]
-print(type(e))
+print(type(e)) # list
 
 f = ("apple", "banana", "cherry")
-print(type(f))
+print(type(f)) # tuple
 
 g = range(6)
-print(type(g))
+print(type(g)) # range
 
+# 4. Mapping Type
 h = {"name" : "Nic", "age" : 22}
-print(type(h))
+print(type(h)) # dict
 
+# 5. Set Types
 i = {"apple", "banana", "cherry"}
-print(type(i))
+print(type(i)) # set
 
 j = frozenset({"apple", "banana", "cherry"})
-print(type(j))
+print(type(j)) # frozenset
 
+# 6. Boolean Type
 k = True
-print(type(k))
+print(type(k)) # bool
 
+# 7. Binary Types
 m = b"Hello"
-print(type(m))
+print(type(m)) # bytes
 
 n = bytearray(5)
-print(type(n))
+print(type(n)) # bytearray
 
 o = memoryview(bytes(5))
-print(type(o))
+print(type(o) ) # memoryview
 
+# 8. None Type
 p = None
-print(type(p))
+print(type(p)) # NoneType
 
 # To specify the data type, use the respective constructor functions which are as follows
 # str()
