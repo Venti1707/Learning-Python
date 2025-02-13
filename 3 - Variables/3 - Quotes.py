@@ -2,6 +2,6 @@
 # with single quotes (')
 # or double quotes ("")
 
-x = 'String'
+a = 'String'
 # is the same as
-x = "string"
+a = "String"
