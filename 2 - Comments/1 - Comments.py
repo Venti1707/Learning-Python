@@ -2,8 +2,8 @@
 print("Hello world!") # This is another comment
 # print("This code will not be executed as it is commented out.")
 
-# There is officially no syntax for multi-lined comments.
-# There are 2 ways to comment multiple lines in Python.
+# There is officially no syntax for multi-lined comments
+# There are 2 ways to comment multiple lines in Python
 
 
 """
