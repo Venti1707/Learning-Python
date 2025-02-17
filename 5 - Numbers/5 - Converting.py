@@ -1,4 +1,4 @@
-# Conversion from one type to another is possible with the int(), float(), and complex() methods.
+# Conversion from one type to another is possible with the int(), float(), and complex() methods
 a = 1 # int
 b = 2.7 # float
 c = 3 - 1j # complex
