@@ -1,7 +1,7 @@
 # There are 8 data types in Python.
 
 # 1. Text Type
-a = "Hello world"
+a = "Hello world!"
 print(type(a)) # str
 
 # 2. Numeric Types
