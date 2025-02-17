@@ -4,8 +4,8 @@
 # 3. String literal (Providing the string represents a float or an integer)
 
 a = float(1) # a will be 1.0
-b = float(2.8) # b will be 2.8
-c = float("3") # c will be 3.0
+b = float(2.718281828459045) # b will be 2.718281828459045
+c = float("-3.141592653589793") # c will be -3.141592653589793
 d = float("4.2") # d will be 4.2
 
 print(a)
