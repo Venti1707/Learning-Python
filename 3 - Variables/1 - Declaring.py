@@ -6,7 +6,6 @@ b = "b"
 print(a)
 print(b)
 
-
 # Variables do not need to be declared with their type
 # Their types can change even after they have been defined
 c = 4
