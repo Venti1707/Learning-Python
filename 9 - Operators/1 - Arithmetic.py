@@ -18,7 +18,8 @@ print(a * b)
 print("Division")
 print(a / b)
 
-# 5) Modulus (%) - Gives the remainder when a is divided by b
+# 5) Modulus (%)
+# Gives the remainder when a is divided by b
 print("Modulus")
 print(a % b)
 
@@ -26,6 +27,7 @@ print(a % b)
 print("Exponentiation")
 print(a ** b)
 
-# 7) Floor division (//) - Rounds the result down to the nearest whole number when a is divided by b
+# 7) Floor division (//)
+# Rounds the result down to the nearest whole number when a is divided by b
 print("Floor division")
 print(a // b)
