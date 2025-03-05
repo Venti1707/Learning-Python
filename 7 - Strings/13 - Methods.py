@@ -319,7 +319,7 @@ print(r1.isupper())
 # Takes all items in an iterable and joins them into a singular string
 # iterable - Any iterable object where the returned values are all strings
 print("string.join()")
-s1 = ("A", "B", "C")
+s1 = ("Apple", "Banana", "Cherry")
 print(", ".join(s1))
 
 # 25) string.ljust(length, character)
