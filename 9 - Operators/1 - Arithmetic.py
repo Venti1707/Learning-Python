@@ -2,32 +2,34 @@
 a = 22
 b = 7
 
-# 1) Addition (+)
-print("Addition")
+# 1) a + b (Addition)
+print("a + b (Addition)")
 print(a + b)
 
-# 2) Subtraction (-)
-print("Subtraction")
+# 2) a - b (Subtraction)
+print("a - b (Subtraction)")
 print(a - b)
 
-# 3) Multiplication (*)
-print("Multiplication")
+# 3) a * b (Multiplication)
+print("a * b (Multiplication)")
 print(a * b)
 
-# 4) Division (/)
-print("Division")
+# 4) a / b (Division)
+print("a / b (Division)")
 print(a / b)
 
-# 5) Modulus (%)
+# 5) a % b (Modulus)
 # Gives the remainder when a is divided by b
-print("Modulus")
+print("a % b (Modulus)")
 print(a % b)
 
 # 6) Exponentiation (**)
-print("Exponentiation")
+# a * a * a * a ... * a
+# <----- b times ----->
+print("a ** b (Exponentiation)")
 print(a ** b)
 
 # 7) Floor division (//)
 # Rounds the result down to the nearest whole number when a is divided by b
-print("Floor division")
+print("a // b (Floor division)")
 print(a // b)
