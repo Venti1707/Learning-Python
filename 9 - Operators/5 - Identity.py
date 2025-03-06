@@ -1,4 +1,5 @@
 # These operators are used to compare the objects, not if they are equal, but if they are actually the same object, with the same memory location
+# They return Boolean values
 a = ["Apple", "Banana", "Cherry"]
 b = ["Apple", "Banana", "Cherry"]
 c = a
