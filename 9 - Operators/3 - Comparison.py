@@ -1,4 +1,5 @@
-# These operators are used to compare numerical values and return Boolean values
+# These operators are used to compare numerical values
+# They return Boolean values
 a = 22
 b = 7
 
