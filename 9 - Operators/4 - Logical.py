@@ -1,4 +1,5 @@
 # These operators are used to combine conditional statements
+# They return Boolean values
 a = 1707
 
 # 1) condition1 and condition2
