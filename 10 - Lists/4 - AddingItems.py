@@ -3,7 +3,7 @@ a = ["Apple", "Banana", "Cherry"]
 # To add an item at the end of a list, use the append() method
 # The append method takes in 1 argument
 # 1) value; The value of the new item
-print("Adding a new element to the end of list a with the append method")
+print("Adding a new element to the end of list a with the append() method")
 print(a)
 a.append("Durian")
 print(a)
@@ -12,7 +12,7 @@ print(a)
 # The append method takes in 2 argument
 # 1) index; The index of the new item
 # 2) value; The value of the new item
-print("Inserting a new element to list a with the insert method")
+print("Inserting a new element to list a with the insert() method")
 print(a)
 a.insert(4, "Elderberry")
 print(a)
@@ -20,7 +20,7 @@ print(a)
 # To append items from 1 list to another, use the extend() method
 # The extend method takes in 1 argument
 # 1) iterable; Any iterable object (Tuples, sets, dictionaries)
-print("Adding items from other iterables")
+print("Adding items from other iterables with the extend() method")
 b = ["Fig"]
 c = ("Guava", "Honeydew")
 print(a)
