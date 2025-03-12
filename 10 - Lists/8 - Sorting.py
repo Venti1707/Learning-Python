@@ -21,7 +21,6 @@ print(b)
 print("Sorting based on how close the numbers are to 1000")
 def closeTo1000(n):
     return abs(n - 1000)
-
 b.sort(key = closeTo1000)
 print(b)
 
