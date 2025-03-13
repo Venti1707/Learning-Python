@@ -7,9 +7,7 @@ a = ["Apple", "Banana", "Cherry"]
 # Lists are ordered which means that the items have a defined order, and that order will not change
 # When new items are added to the list, they will be placed at the end of the list
 # There are methods that will change the order of the list but in general the order will not change
-
 # Lists are changeable which means that we can change, add or remove items after it is created
-
 # Lists can contain duplicate values due to each item within being indexed
 
 # To find the length of a list, use the len() function
