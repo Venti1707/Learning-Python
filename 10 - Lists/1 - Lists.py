@@ -1,7 +1,7 @@
 a = ["Apple", "Banana", "Cherry"]
 
 # Lists are used to store multiple items in a singular variable
-# It is 1 of 4 built-in data types to store collections of data
+# It is the first of 4 built-in data types to store collections of data
 # The other 3 are: Tuple, Set & Dictionary
 
 # Lists are ordered which means that the items have a defined order, and that order will not change
