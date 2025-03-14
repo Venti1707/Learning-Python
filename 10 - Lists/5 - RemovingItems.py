@@ -21,7 +21,7 @@ print("Removing items from list a with the del keyword")
 print(a)
 del a[3]
 print(a)
-# del a
+# del a # This will be produce an error if printed as the list no longer exists
 
 # To clear the list, use the clear() method
 print("Clearing list a with the clear() method")
