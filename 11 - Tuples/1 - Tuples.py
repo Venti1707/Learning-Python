@@ -8,7 +8,7 @@ a = ("Apple", "Banana", "Cherry")
 # Items in a tuple are indexed (like in a list)
 
 # To find the number of items in a tuple, use the len() function
-print("Number of item in tuple a")
+print("Number of items in tuple a")
 print(len(a))
 
 # In order to create a tuple with only a single item, after the first item, a comma has to be added
