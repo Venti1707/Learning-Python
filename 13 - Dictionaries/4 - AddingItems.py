@@ -13,7 +13,7 @@ a["age"] = 22
 print(a)
 
 # You can also use the update() method which takes in an iterable object with key:value pairs
-print("Using the update() method to update the username key in dictionary a")
+print("Using the update() method to add the username key in dictionary a")
 print(a)
 a.update({"username": "Venti1707"})
 print(a)
