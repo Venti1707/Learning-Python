@@ -7,7 +7,7 @@
 # 4) *, /, //, % - Multiplication, division, floor division, and modulus
 # 5) +, - - Addition and subtraction
 # 6) <<, >> - Bitwise left and right shifts
-# 7) & - Bitwise ANDw
+# 7) & - Bitwise AND
 # 8) ^ - Bitwise XOR
 # 9) | - Bitwise OR
 # 10) ==, !=, >, >=, <, <=, is, is not, in, not in - Comparisons, identity, and membership operators
